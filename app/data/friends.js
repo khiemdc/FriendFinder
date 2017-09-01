@@ -20,13 +20,13 @@ var friendsData = [
     scores: [3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
   },
   {
-    name: "Dr. Evil",
-    photo:"https://at-cdn-s01.audiotool.com/2012/05/28/documents/ei368KjdlP5qy6gILDLtH9cEAf6H/0/cover256x256-b31436c2a9bc4645b1ad67bc09705cd7.jpg",
-    scores: [5, 4, 4, 4, 4, 3, 2, 1, 5, 5]
+    name: "Sylvester Stallone",
+    photo: '<a href="http://tinypic.com?ref=fns4eb" target="_blank"><img src="http://i64.tinypic.com/fns4eb.jpg" border="0" alt="Image and video hosting by TinyPic"></a>',
+    scores: [4,4,4,4,4,4,4,4,4,4]
   },
   {
     name: "Princess Diana",
-    photo:"https://media.giphy.com/media/2IWXglk6oiB7a/giphy.gif",
+    photo:"https://peopledotcom.files.wordpress.com/2016/11/princess-diana-3.jpg?w=1273&h=2000",
     scores: [2, 4, 2, 4, 2, 3, 4, 4, 4, 3]
   },
   {
