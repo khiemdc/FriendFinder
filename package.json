@@ -1,0 +1,13 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "find the friend with the greatest compatibility!",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
