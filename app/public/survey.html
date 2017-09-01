@@ -15,7 +15,7 @@
         <h2>Survey Questions</h2>
        <hr>
         <h3><strong>About You</strong></h3>        
-        <form id="myForm">   
+       <!--<form id="myForm"> -->  
          <h4>Your Name(Required)</h4>
           <input id = "formName" class="form-control" type="text" name="name" placeholder="Enter your name">
           <h4>Link to a your photo(Required)</h4>
@@ -45,7 +45,6 @@
             <option value="4">4</option>
             <option value="5">5 (Strongly Agree)</option>
           </select>
-
                     
           <!-- Q3 -->
           <h3><strong>Question 3</strong></h3>
@@ -142,7 +141,7 @@
             <option value="4">4</option>
             <option value="5">5 (Strongly Agree)</option>
           </select>
-        </form>
+        <!--</form>-->
       <br><br>
     <!-- Submit Questions-->
       <button id="submitButton" type="submit" class="btn btn-block btn-lg btn-primary" id="submitButton"><span class="glyphicon glyphicon-th-list"></span> Submit</button>
@@ -258,7 +257,7 @@
           $("#resultsModal").modal('toggle');
 
         // reset options 
-        document.getElementById("myForm").reset();
+        // document.getElementById("myForm").reset();
        });
      });
    }
