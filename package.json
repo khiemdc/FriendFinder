@@ -1,20 +1,11 @@
 {
   "name": "friendfinder",
   "version": "1.0.0",
-  "description": "A fullstack dating application.",
+  "description": "Find the friend with the greatest compatibility",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/khiemdc/FriendFinder.git"
-  },
-  "author": "khiemdc",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/khiemdc/FriendFinder/issues"
   },
   "homepage": "https://github.com/khiemdc/FriendFinder#readme",
   "dependencies": {
